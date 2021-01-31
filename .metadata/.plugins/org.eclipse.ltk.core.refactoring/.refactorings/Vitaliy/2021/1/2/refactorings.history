@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;sweet1&apos; in &apos;Present.getSweets()&apos; to &apos;sweet&apos;&#x0D;&#x0A;- Original project: &apos;Vitaliy&apos;&#x0D;&#x0A;- Original element: &apos;Present.getSweets().sweet1&apos;&#x0D;&#x0A;- Renamed element: &apos;sweet1&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;sweet1&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/&lt;{Present.java[Present~getSweets@sweet1!1450!1475!1456!1461!QSweet;!0!false" name="sweet" references="true" stamp="1610238110672" version="1.0"/>
+</session>

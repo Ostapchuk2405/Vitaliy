@@ -1,0 +1,10 @@
+package com.itbulls.learnit.ostapchuk.hw4;
+
+public class MaxIntInArray {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

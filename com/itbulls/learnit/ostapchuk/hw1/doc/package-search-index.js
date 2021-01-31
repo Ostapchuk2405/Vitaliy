@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.itbulls.learnit.ostapchuk.hw1"}];updateSearchResults();
