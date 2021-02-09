@@ -19,11 +19,15 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\Admin\Desktop\Projects"/>
+			<item value="C:\Users\Admin\Desktop\Servlets-example\servlets-examples\src"/>
 			<item value="C:\Users\Admin\Desktop\Projects\learnit_java_core\src\com\itbulls\learnit\javacore"/>
 			<item value="C:\Users\Admin\Desktop\Projects\Vitaliy"/>
 			<item value="C:\Users\Admin\Desktop\Projects\learnit_java_core\src\com\itbulls\learnit\javacore\oop\exam\onlineshop"/>
 		</list>
 	</section>
 	<section name="NewWizardAction">
+	</section>
+	<section name="BasicNewProjectResourceWizard">
 	</section>
 </section>
