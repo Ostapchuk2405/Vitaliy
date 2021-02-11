@@ -11,11 +11,11 @@ public class AmountOfWords {
 		String userInput = sc.nextLine();
 		sc.close();
 		int amountOfAWords = getWordsAmout(userInput);
-		System.out.println("Amout of a words " + amountOfAWords);
+		System.out.println("Amount of a words " + amountOfAWords);
 	}
 
 	private static int getWordsAmout(String text) {
-		return text.split("[\\p{P}||s]").length;
+		return text.split(" ").length;
 	}
 
 }
