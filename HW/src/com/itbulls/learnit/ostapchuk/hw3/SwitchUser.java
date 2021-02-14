@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class SwitchUser {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		System.out.println(
 				"1. Login \n" + "2. Sign up \n" + "3. Terminate program \n" + "4. Main menu \n" + "5. About App\n");
 
