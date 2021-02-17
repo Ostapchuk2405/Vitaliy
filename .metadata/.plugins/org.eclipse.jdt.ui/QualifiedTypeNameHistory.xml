@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="dao.models.UserModels"/>
-    <fullyQualifiedTypeName name="dao.dao_3.UserDao"/>
-    <fullyQualifiedTypeName name="dao.dao_3.DbUtils"/>
-    <fullyQualifiedTypeName name="java.sql.SQLException"/>
-    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
-    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
-    <fullyQualifiedTypeName name="dao.dao_3.dao.DefaultUserDao"/>
     <fullyQualifiedTypeName name="examplediploma.groupacdc.servlets.ShowUserByIdServlet"/>
     <fullyQualifiedTypeName name="jdk.javadoc.internal.doclets.formats.html.markup.Head"/>
     <fullyQualifiedTypeName name="java.util.Random"/>
@@ -14,7 +7,6 @@
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
     <fullyQualifiedTypeName name="java.awt.TrayIcon.MessageType"/>
-    <fullyQualifiedTypeName name="java.lang.Object"/>
     <fullyQualifiedTypeName name="sun.security.x509.AuthorityInfoAccessExtension"/>
     <fullyQualifiedTypeName name="java.math.BigDecimal"/>
     <fullyQualifiedTypeName name="com.itbulls.learnit.ostapchuk.hw6.CoverType"/>
@@ -60,4 +52,12 @@
     <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="com.sun.org.apache.bcel.internal.generic.RET"/>
     <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="org.w3c.dom.Node"/>
+    <fullyQualifiedTypeName name="java.lang.UnsatisfiedLinkError"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="com.itbulls.learnit.ostapchuk.hw7.DefaultMyList"/>
+    <fullyQualifiedTypeName name="com.itbulls.learnit.ostapchuk.hw7.IteratorImpl"/>
+    <fullyQualifiedTypeName name="java.util.ListIterator"/>
+    <fullyQualifiedTypeName name="java.util.NoSuchElementException"/>
 </qualifiedTypeNameHistroy>
