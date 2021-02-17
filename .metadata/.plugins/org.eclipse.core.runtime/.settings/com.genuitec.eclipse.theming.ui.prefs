@@ -1,12 +1,13 @@
 applyBackground=false
 approved.defs.file.last.changed.time=1607625304000
+codemix.announce.displayed=true
 codemix.dont.show.upsell.until=1612526492001
 configurationInstallLocation=/C\:/Program Files/Java/eclipse/
 eclipse.preferences.version=1
 elearning.dont.show.until=1613647549585
 iconcolormode=primary
-last.download.attempt.time=1613317645397
-lastConfiguration=1613331502954
+last.download.attempt.time=1613563950090
+lastConfiguration=1613563932684
 newinstall=false
 showWelcomeDialog=false
 workbench.theme=Dark Gray

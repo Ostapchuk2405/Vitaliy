@@ -730,3 +730,12 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact jstl:jstl:jar
 2021-02-14 17:50:35,563 [Worker-6: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.code.gson:gson:2.8.2
 2021-02-14 17:50:35,572 [Worker-6: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-dbcp:commons-dbcp:1.4
 2021-02-14 17:50:35,582 [Worker-6: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-pool:commons-pool:1.5.4
+2021-02-14 21:38:46,899 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-02-16 13:16:26,542 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-02-16 23:08:24,389 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-02-17 01:15:24,654 [Worker-49: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 01:15:24,668 [Worker-49: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 95 resources
+2021-02-17 01:15:25,947 [Worker-49: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 67 resources
+2021-02-17 01:15:26,463 [Worker-49: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-17 01:15:26,464 [Worker-49: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Servlets-example\servlets-examples\src\test\resources
+2021-02-17 14:12:30,342 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
