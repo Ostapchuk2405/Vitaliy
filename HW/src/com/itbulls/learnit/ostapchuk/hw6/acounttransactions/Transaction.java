@@ -6,6 +6,9 @@ public class Transaction {
 	private Account accountTo;
 	private double moneyAmount;
 	private StandardAccountOperations operation;
+	public Transaction(Account account, Object object, double moneyAmount2, StandardAccountOperations withdraw) {
+		
+	}
 	public Account getAccountFrom() {
 		return accountFrom;
 	}
