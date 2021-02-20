@@ -32,6 +32,12 @@ public class Book {
 		this.coverType = coverType;
 	}
 
+	public Book(int i, String string, com.itbulls.learnit.ostapchuk.hw8.Stream.Author[] authors2,
+			com.itbulls.learnit.ostapchuk.hw8.Stream.Publisher publisher2, int j, int k, BigDecimal valueOf,
+			com.itbulls.learnit.ostapchuk.hw8.Stream.CoverType paperback) {
+	
+	}
+
 	public int getId() {
 		return id;
 	}

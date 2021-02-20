@@ -1,6 +1,6 @@
 package com.itbulls.learnit.ostapchuk.hw7;
 
-public interface MyList {
+public interface MyList extends Iterable<Object> {
 
 	void add(Object e);
 

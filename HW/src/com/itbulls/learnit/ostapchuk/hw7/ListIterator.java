@@ -13,5 +13,4 @@ public interface ListIterator extends Iterator<Object> {
 
 	@Override
 	void remove();
-
 }
